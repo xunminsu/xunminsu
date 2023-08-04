@@ -14,7 +14,7 @@
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width="36" height="36" alt="Python" /></a>
 <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"  width="36" height="36" alt="Golang" /></a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg"  width="36" height="36" alt="Django" /></a>
-<a href="https://flask.palletsprojects.com/en/2.3.x/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"  width="36" height="36" alt="Flask" /></a>
+<a href="https://flask.palletsprojects.com/en/2.3.x/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg"  width="36" height="36" alt="Flask" /></a>
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original-wordmark.svg"  width="36" height="36" alt="FastAPI" /></a>
 </p>
 
